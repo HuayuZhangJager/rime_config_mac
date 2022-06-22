@@ -1,1 +1,3 @@
-Rime/luna_pinyin.userdb
+Rime/*
+!Rime/default.custom.yaml
+!Rime/squirrel.custom.yaml

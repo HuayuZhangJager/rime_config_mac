@@ -1,8 +1,0 @@
-# Rime user dictionary
-#@/db_name	luna_pinyin
-#@/db_type	userdb
-#@/rime_version	1.7.3
-#@/tick	3
-#@/user_id	9355ecb6-d998-4caa-98c4-03654ca1812f
-ding zhi 	定製	c=2 d=1.99501 t=2
-pei zhi 	配置	c=1 d=1 t=3
